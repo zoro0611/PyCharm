@@ -1,0 +1,5 @@
+print("我們一起玩一個好玩的拼詞遊戲吧。")
+who = input("請輸入您的名字: ")
+where = input("請輸入一個地點: ")
+what = input("請輸入在做的事情: ")
+print(who,where,what)
